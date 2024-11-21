@@ -1,3 +1,3 @@
 export default () => {
-  return { dir: { input: 'src', output: 'dst' } }
+  return { dir: { input: 'src' } }
 }
